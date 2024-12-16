@@ -1,16 +1,17 @@
-# netflix
+# Movies Application 
 
-A new Flutter project.
+-SignUp and Login
 
-## Getting Started
+-Show trending Movies and top rated
 
-This project is a starting point for a Flutter application.
+-Can search for a specific movie
 
-A few resources to get you started if this is your first Flutter project:
+-Show all movie details 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Api Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.themoviedb.org/
+
+## Video
+
+https://github.com/user-attachments/assets/422e261b-2036-46c9-bd80-6f36183778b9
