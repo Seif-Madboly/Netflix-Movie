@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420183369504",
+    "project_id": "netflix-1cbb7",
+    "storage_bucket": "netflix-1cbb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420183369504:android:31a81a239b102a0faf1945",
+        "android_client_info": {
+          "package_name": "com.example.netflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3Yvrefrb8rmoipPCTs9KRrw0OoYe6Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
